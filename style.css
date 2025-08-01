@@ -1,0 +1,51 @@
+.cardcheckout{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border-radius: 25px;
+    
+    width: 400px;
+    height: 800px;
+    color: white;
+    padding-left: 20px;
+    padding-top: 20px;
+    background-color: rgb(68, 66, 66);
+}
+
+.paymentDetails{
+    margin-top: none;
+    width: 400px;
+    height: 100px;
+    text-align: center;
+    background-color: rgb(37, 3, 68);
+    color: tomato;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.Addcard{
+    color: brown;
+    padding-left: 20px;
+    display:block;
+   
+}
+.pay{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 70px;
+    margin-bottom: 30px;
+    background-color: wheat;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
