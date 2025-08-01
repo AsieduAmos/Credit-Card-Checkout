@@ -1,51 +1,76 @@
+body{
+    background-color: whitesmoke;
+    position: relative;
+    
+}
 .cardcheckout{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    width: 350px;
+    height: 900px;
+    background-color: white;
+    border-radius: 20px;
     
-    border-radius: 25px;
-    
-    width: 400px;
-    height: 800px;
-    color: white;
-    padding-left: 20px;
-    padding-top: 20px;
-    background-color: rgb(68, 66, 66);
 }
 
 .paymentDetails{
-    margin-top: none;
-    width: 400px;
-    height: 100px;
+    width: 350px;
+    height: 75px;
     text-align: center;
-    background-color: rgb(37, 3, 68);
-    color: tomato;
-    font-size: 30px;
+    background-color: rgba(13, 10, 54, 0.87);
+    color: white;
+    font-size: 25px;
     font-weight: bold;
-}
-
-.Addcard{
-    color: brown;
-    padding-left: 20px;
-    display:block;
+    padding-top: 50px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;;
    
 }
+
+
+.contain{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor: pointer;
+
+}
+
+.fields{
+    text-align: center;
+    color: black;
+    font-size: 17px;
+    font-weight: bolder;
+}
+
+.h3{
+    color: black;
+}
+
 .pay{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 110px;
-    padding-right: 110px;
+    padding-left: 90px;
+    padding-right: 90px;
     padding-top: 15px;
     padding-bottom: 15px;
     margin-top: 70px;
     margin-bottom: 30px;
-    background-color: wheat;
+    background-color: rgba(13, 10, 54, 0.87);
     color: white;
     border: none;
     border-radius: 10px;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: bold;
     cursor: pointer;
     
+}
+.check{
+    margin-top: 20px;
 }
